@@ -7,17 +7,15 @@ Tools, installs & tweaks for everyday happy life.
 Next generation Ubuntu 16.04/18.10 install scripts, tools & dotfiles.
 
 ### Dev
-  :hocho: Git
-  :hocho: Node.js
-
+  :hocho: Git<br />
+  :hocho: Node.js<br />
+  :hocho: React.js & Node.js tools<br />
+  :hocho: VSCode & VSCode Insiders<br />
+ 
 ### Shell
   :hocho: Guake<br />
   :hocho: [ZSH Quickstart Kit](https://github.com/unixorn/zsh-quickstart-kit) (Oh-my-zsh, zgen)<br />
   :hocho: [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)<br />
-
-### Apps
-  :hocho: VLC<br />
-  :wavy-dash: VSCode / VSCode Insiders<br />
 
 ### Appearance
   :hocho: [Plank Dock](https://github.com/B00merang-Project/macOS-High-Sierra-Dark)<br />
