@@ -46,8 +46,8 @@ My next generation Ubuntu 16.04/18.10 install scripts & tools. Inspired by [prev
 
   To install & setup everything:
 ```bash
-  git clone https://github.com/andreystarkov/ubuntu-swiss-army-knife
-  cd ubuntu-swiss-army-knife
+  git clone https://github.com/andreystarkov/humanization
+  cd humanization
   bash ./install.sh
 ```
 
