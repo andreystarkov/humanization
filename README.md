@@ -22,11 +22,24 @@ Next generation Ubuntu 16.04/18.10 install scripts & tools.
   :hocho: [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme)<br />
   :hocho: [Ken Harkey Plank Themes](https://github.com/KenHarkey/plank-themes)<br />
   :hocho: [MacOS High Sierra Dark](https://github.com/B00merang-Project/macOS-High-Sierra-Dark)<br />
-  :hocho: [MacOS High Sierra Dark](https://github.com/B00merang-Project/macOS-High-Sierra-Dark)<br />
   :hocho: [Ant](https://github.com/EliverLara/Ant)<br />
   :hocho: [Ant Nebula](https://github.com/EliverLara/Ant-Nebula)<br />
   :hocho: [Papirus Icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)<br />
   :hocho: [Fira Code Font](https://github.com/tonsky/FiraCode)<br />
+
+### Usage
+  Install everything:
+```bash
+  git clone https://github.com/andreystarkov/ubuntu-swiss-army-knife
+  cd ubuntu-swiss-army-knife
+  chmod +x *.sh
+  ./install-basic.sh
+```
+
+  Setup everything:
+```bash
+  ./setup.sh
+```
 
 ### TODO:
   - [x] Common install script
