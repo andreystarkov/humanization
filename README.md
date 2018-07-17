@@ -7,25 +7,27 @@ Tools, install scripts & tweaks for everyday happy life.
 My next generation Ubuntu 16.04/18.10 install scripts & tools. Inspired by [prevous attempt](https://github.com/andreystarkov/perfect-ubuntu)
 
 ## :hammer: Dev
-  - Git<br />
-  - Node.js<br />
-  - React.js Development Tools<br />
-  - [VSCode Insiders](https://code.visualstudio.com/insiders/)<br />
+  - Git
+  - Node.js
+  - React.js Development Tools
+  - [VSCode Insiders](https://code.visualstudio.com/insiders/)
  
 ## :wrench: Shell
   - [Guake](https://github.com/Guake/guake)
-  - [ZSH Quickstart Kit](https://github.com/unixorn/zsh-quickstart-kit) (Oh-my-zsh, zgen)<br />
-  - [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)<br />
+  - [ZSH Quickstart Kit](https://github.com/unixorn/zsh-quickstart-kit)
+  - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+  - [Zgen](https://github.com/tarjoilija/zgen)
+  - [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 
 ## :fork_and_knife: Look
-  - [Plank Dock](https://github.com/B00merang-Project/macOS-High-Sierra-Dark)<br />
-  - [Ken Harkey Plank Themes](https://github.com/KenHarkey/plank-themes)<br />
-  - [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme)<br />
-  - [MacOS High Sierra Dark](https://github.com/B00merang-Project/macOS-High-Sierra-Dark)<br />
-  - [Ant](https://github.com/EliverLara/Ant)<br />
-  - [Ant Nebula](https://github.com/EliverLara/Ant-Nebula)<br />
-  - [Papirus Icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)<br />
-  - [Fira Code Font](https://github.com/tonsky/FiraCode)<br />
+  - [Plank Dock](https://github.com/B00merang-Project/macOS-High-Sierra-Dark)
+  - [Ken Harkey Plank Themes](https://github.com/KenHarkey/plank-themes)
+  - [Frost Plank Theme](https://github.com/dikiaap/frost-plank-theme)
+  - [MacOS High Sierra Dark](https://github.com/B00merang-Project/macOS-High-Sierra-Dark)
+  - [Ant](https://github.com/EliverLara/Ant)
+  - [Ant Nebula](https://github.com/EliverLara/Ant-Nebula)
+  - [Papirus Icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+  - [Fira Code Font](https://github.com/tonsky/FiraCode)
 
   If everything is done right, it looks like [this](assets/shot.jpg)
 
