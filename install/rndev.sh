@@ -1,0 +1,10 @@
+sudo apt install -yqq autotools-dev
+sudo apt install -yqq aclocal
+sudo apt install -yqq automake
+sudo npm install -g create-react-native-app
+sudo npm install -g react-native-cli
+sudo npm install -g ignite-cli
+sudo npm install -g reactotron-cli
+sudo npm install -g reactotron
+sudo npm install -g rnpm
+sudo npm install -g flow-bin

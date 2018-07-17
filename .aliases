@@ -1,0 +1,57 @@
+# Universal Shell Aliases, should work with both Bash and ZSH.
+alias mkdir='mkdir -p'
+alias chown='chown -Rv'
+alias chmod='chmod -Rv'
+alias grep='grep --color=always'
+alias diff='colordiff'
+alias tar='tar --verbose'
+alias tmux='tmux -2'
+#alias rsync='rsync --verbose  --progress --stats --compress --recursive --times --perms --links exclude "*bak" --exclude "*~*"'
+alias psaux='ps aux'
+alias psl='psaux|more'
+alias psg='psaux|grep'
+alias df='pydf -a -h -B'
+alias more='less'
+alias tracert='mtr'
+alias traceroute='mtr'
+alias logout='sudo pkill -u $USER'
+alias log-out='sudo pkill -u $USER'
+
+# http://www.gnu.org/software/emacs/manual/html_node/emacs/Emacs-Server.html#Emacs-Server
+alias emacsnw='emacs -nw'
+alias emacsn='emacs -nw'
+alias emacsd='emacs -daemon'
+alias emacsc='emacsclient'
+
+alias yi='yi --as=vim'
+
+alias lla='ls -alF --group-directories-first --color=always'
+alias ll='ls -l --group-directories-first --color=always'
+alias la='ls -A --group-directories-first --color=always'
+alias l='ls -CF --group-directories-first --color=always'
+alias llg='ls -alF --group-directories-first --color=always|grep'
+alias llm='ls -alF --group-directories-first --color=always|more'
+alias lll='ls -alF --group-directories-first --color=always|more'
+alias vm='vim'
+alias vom='vim'
+
+alias gcn='git clone'
+alias ga='git add'
+alias gaa='git add -A'
+alias gcm='git commit -m'
+alias gcmu="git commit -m 'update'"
+alias gcau="git commit -am 'update'"
+alias gst='git status'
+alias gpom='git push --all origin'
+alias gpum='git pull --all upstream'
+alias gfum='git fetch --all upstream'
+alias gp='git pull --all'
+alias gpa='git pull --all'
+alias gf='git fetch --all'
+alias grv='git remote -v'
+alias grau='git remote add upstream'
+# push tracking branch to remote tracking branch
+# ex:  git push [remotename] [trackingbranch]:[remotetrackingbranch]
+# ex:  git push origin precise:precise
+# ex:  git push origin v2.0.0:v2.0.0
+alias gptr='git push origin $1:$2'
