@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir -p ~/.themes
 git clone https://github.com/EliverLara/Ant-Nebula ~/.themes/Ant-Nebula
 git clone https://github.com/EliverLara/Ant ~/.themes/Ant
