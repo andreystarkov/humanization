@@ -4,7 +4,7 @@ Tools, installs & tweaks for everyday happy life.
 
 ![](assets/pic.jpg)
 
-Next generation Ubuntu 16.04/18.10 install scripts, tools & dotfiles.
+Next generation Ubuntu 16.04/18.10 install scripts & tools.
 
 ### Dev
   :hocho: Git<br />
