@@ -9,8 +9,8 @@ Next generation Ubuntu 16.04/18.10 install scripts & tools. Inspired by [prevous
 ### Dev
   :hocho: Git<br />
   :hocho: Node.js<br />
-  :hocho: React.js & Node.js tools<br />
-  :hocho: VSCode & VSCode Insiders<br />
+  :hocho: React.js Development Tools<br />
+  :hocho: VSCode Insiders<br />
  
 ### Shell
   :hocho: Guake<br />
