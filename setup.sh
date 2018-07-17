@@ -1,8 +1,10 @@
 
 #!/bin/bash
 
-exec ./setup/icons-papirus.sh
-exec ./setup/theme-mojave.sh
-exec ./setup/nonlatinhotkeys.sh
-exec ./setup/performance.sh
+chmod +x ./setup/*
+
+source "setup/icons-papirus.sh"
+source "setup/theme-mojave.sh"
+source "setup/nonlatinhotkeys.sh"
+source "setup/performance.sh"
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt install software-properties-common build-essential checkinstall wget curl git libssl-dev apt-transport-https ca-certificates -yqq 
+sudo apt install software-properties-common build-essential checkinstall wget curl git libssl-dev apt-transport-https ca-certificates figlet -yqq 
 
 sudo apt install -yqq git
 sudo apt install -yqq guake

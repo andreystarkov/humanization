@@ -7,3 +7,4 @@ cd ~/zsh-quickstart-kit
 stow --target=/home/deo zsh
 sudo npm i -g spaceship-zsh-theme
 zgen load denysdovhan/spaceship-zsh-theme spaceship
+# echo "zgen load denysdovhan/spaceship-zsh-theme spaceship" >> ~/.zshrc
